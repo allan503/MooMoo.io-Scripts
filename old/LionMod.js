@@ -1,7 +1,7 @@
  // ==UserScript==
-// @name         🦁⎝⧹ζ͜͡𝕃𝕚𝕠𝕟 𝕄𝕠𝕕༻ ⧸⎠🦁 (1.1)
+// @name         MOD OP
 // @namespace    -
-// @version      1.1
+// @version      1.8.1
 // @description   Advanced MooMoo.io Hacking | Made By ⎝⧹ ζ͜͡𝕰𝖓𝖌𝖎𝖓𝖊 𝕸𝖆𝖘𝖙𝖊𝖗𝖘༻ ⧸⎠#5743
 // @author       ζ͜͡𝕰𝖓𝖌𝖎𝖓𝖊 𝕸𝖆𝖘𝖙𝖊𝖗𝖘༻ + 𝕿𝖎т𝓲Ⓝ𝕚𝓾Ɨ𝕞 D.KNIGHT
 // @match        *://moomoo.io/*
